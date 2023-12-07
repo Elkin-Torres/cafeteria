@@ -16,7 +16,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    console.log("Tienda", step);
+    //console.log("Tienda", step);
   }, [step]);
 
   return (
